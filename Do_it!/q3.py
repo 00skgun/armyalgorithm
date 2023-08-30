@@ -1,7 +1,6 @@
 import sys
 
 input = sys.stdin.readline
-a = input
 data, qus = map(int, input().split())
 inp_lis = list(map(int, input().split()))
 
